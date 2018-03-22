@@ -15,7 +15,7 @@
 
 >[计网期末复习](https://github.com/xiguashu/fojiao/blob/master/计网期末复习/计网期末复习.md)
 
->[自顶向下方法](https://github.com/xiguashu/fojiao/blob/master/自顶向下方法.md)
+>[自顶向下方法](https://github.com/xiguashu/fojiao/blob/master/自顶向下方法/自顶向下方法.md)
 
 
 ## 操作系统 :computer:
