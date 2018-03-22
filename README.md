@@ -13,6 +13,11 @@
 
 整理自《图解 HTTP》
 
+>[计网期末复习](https://github.com/xiguashu/fojiao/blob/master/计网期末复习.md)
+
+>[自顶向下方法](https://github.com/xiguashu/fojiao/blob/master/自顶向下方法.md)
+
+
 ## 操作系统 :computer:
 
 > [计算机操作系统](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机操作系统.md)
